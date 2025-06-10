@@ -1,0 +1,9 @@
+Valid names to add in map.txt
+room
+room_realkey
+room_fakekey
+hallway
+trap_hole
+trap_mine
+staircase
+exit_door

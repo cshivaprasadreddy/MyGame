@@ -1,0 +1,23 @@
+4
+base 8 8
+hallway room exit_door hallway hallway hallway hallway hallway
+room hallway room hallway hallway hallway hallway hallway
+room room room hallway hallway hallway hallway hallway
+hallway hallway hallway hallway hallway hallway hallway hallway
+hallway hallway hallway hallway hallway hallway hallway hallway
+hallway hallway hallway hallway hallway hallway hallway hallway
+hallway hallway hallway hallway hallway hallway hallway hallway
+hallway hallway hallway hallway hallway hallway hallway hallway
+floor1 3 3
+room room staircase 
+room_fakekey hallway room_realkey
+room room room
+floor2 3 3
+room trap_mine room
+hallway staircase hallway
+room room room
+floor3 3 3
+room hallway room
+trap_hole room trap_mine
+room staircase room
+
